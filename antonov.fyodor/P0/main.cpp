@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main() {
-	std::cout << "antonov.fyodor";
-	return 0;
+int main()
+{
+  std::cout << "antonov.fyodor\n";
+  return 0;
 }
