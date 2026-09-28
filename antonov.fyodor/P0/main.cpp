@@ -3,5 +3,4 @@
 int main()
 {
   std::cout << "antonov.fyodor\n";
-  return 0;
 }
