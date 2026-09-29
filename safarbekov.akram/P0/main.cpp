@@ -2,5 +2,4 @@
 
 int main() {
   std::cout << "safarbekov.akram\n";
-  return 0;
 }
